@@ -23,3 +23,5 @@ function App() {
 }
 
 export default App;
+
+// 2021.07.22 - THU: js-practice
