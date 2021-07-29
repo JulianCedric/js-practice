@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import ReactPractice from './ReactPractice';
 
 function App() {
   return (
@@ -18,10 +19,13 @@ function App() {
           Learn React
         </a>
       </header>
+      <ReactPractice />
     </div>
   );
 }
 
 export default App;
 
-// 2021.07.22 - THU: js-practice
+// 2021.07.22 - THU: js-practice 
+
+// 
